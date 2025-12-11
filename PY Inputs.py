@@ -1,0 +1,6 @@
+Name=input("Enter your full name:")
+print("The name you entered is :",Name)
+Age=int(input("Enter your age:"))
+print("Your age is :",Age)
+Marks=float(input("Hoe must % u got :"))
+print("You got :", Marks)
